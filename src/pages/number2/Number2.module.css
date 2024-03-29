@@ -1,0 +1,19 @@
+.jenjang :global(.ant-select-selector) {
+  background-color: green !important;
+}
+
+.tingkatan :global(.ant-select-selector) {
+  background-color: red !important;
+}
+
+.jenjang :global(.ant-select-arrow),
+.tingkatan :global(.ant-select-arrow) {
+  color: white !important;
+}
+
+.jenjang :global(.ant-select-selection-placeholder),
+.jenjang :global(.ant-select-selection-item),
+.tingkatan :global(.ant-select-selection-placeholder),
+.tingkatan :global(.ant-select-selection-item) {
+  color: white !important;
+}
