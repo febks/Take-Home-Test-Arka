@@ -1,0 +1,4 @@
+1. Checkout branch master
+2. npm install
+3. open terminal, npm run start
+4. gunakan url '/' untuk jawaban nomor 1, '/number2' untuk jawaban nomor 2, dan '/number3' untuk jawaban nomor 3
