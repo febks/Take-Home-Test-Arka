@@ -49,7 +49,7 @@ const Number2 = () => {
           <Select
             size='large'
             style={{ width: '250px'}}
-            placeholder={`${!jenjang ? "Pilih Jenjangnya dulu!" : "Pilih tingaktan"}`}
+            placeholder={`${!jenjang ? "Pilih Jenjangnya dulu!" : "Pilih tingkatan"}`}
             className={style.tingkatan}
             value={tingkatan}
             onChange={(e) => onChange(e, "tingkatan")}
